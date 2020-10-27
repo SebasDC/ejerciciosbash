@@ -1,0 +1,2 @@
+# ejerciciosbash
+La que quieras
